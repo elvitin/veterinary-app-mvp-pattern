@@ -1,0 +1,15 @@
+insert into pet (pet_name, pet_type, pet_colour) values('Buttons', 'Dog', 'White');
+insert into pet (pet_name, pet_type, pet_colour) values('Coda', 'Cat', 'Multicolor');
+insert into pet (pet_name, pet_type, pet_colour) values('Merlin', 'Parrot', 'Green-Yellow');
+insert into pet (pet_name, pet_type, pet_colour) values('Nina', 'Turtle', 'Dark Gray');
+insert into pet (pet_name, pet_type, pet_colour) values('Domino', 'Rabbit', 'White');
+insert into pet (pet_name, pet_type, pet_colour) values('Luna', 'Hamster', 'Orange');
+insert into pet (pet_name, pet_type, pet_colour) values('Lucy', 'Monkey', 'Brown');
+insert into pet (pet_name, pet_type, pet_colour) values('Daysi', 'Horse', 'White');
+insert into pet (pet_name, pet_type, pet_colour) values('Zoe', 'Snake', 'Yellow white');
+insert into pet (pet_name, pet_type, pet_colour) values('Max', 'Budgie', 'Yellow');
+insert into pet (pet_name, pet_type, pet_colour) values('Charlie', 'Mouse', 'White');
+insert into pet (pet_name, pet_type, pet_colour) values('Rocky', 'Squirrel', 'Brown-Orange');
+insert into pet (pet_name, pet_type, pet_colour) values('Leo', 'Dog', 'White-Black');
+insert into pet (pet_name, pet_type, pet_colour) values('Loki', 'Cat', 'Black');
+insert into pet (pet_name, pet_type, pet_colour) values('Jasper', 'Dog', 'Silver');
